@@ -9,15 +9,15 @@
 
 100% client side JavaScript, running in your browser (see details below):
 
-- [Webcam live demo! (ARUCO Dictionary)](https://damianofalcioni.github.io/js-aruco2/samples/getusermedia/getusermedia_ARUCO.html)
+- [Webcam live demo! (ARUCO Dictionary)](https://skyyearxp.github.io/js-aruco2/samples/getusermedia/getusermedia_ARUCO.html)
 
-- [Webcam live demo! (ARUCO_MIP_36h12 Dictionary)](https://damianofalcioni.github.io/js-aruco2/samples/getusermedia/getusermedia_ARUCO_MIP_36h12.html)
+- [Webcam live demo! (ARUCO_MIP_36h12 Dictionary)](https://skyyearxp.github.io/js-aruco2/samples/getusermedia/getusermedia_ARUCO_MIP_36h12.html)
 
-- [Visual debugging live demo (ARUCO_MIP_36h12 Dictionary)!](https://damianofalcioni.github.io/js-aruco2/samples/debug/debug.html)
+- [Visual debugging live demo (ARUCO_MIP_36h12 Dictionary)!](https://skyyearxp.github.io/js-aruco2/samples/debug/debug.html)
 
-- [3D Earth (ARUCO_MIP_36h12 Dictionary)!](https://damianofalcioni.github.io/js-aruco2/samples/debug-posit/debug-posit.html)
+- [3D Earth (ARUCO_MIP_36h12 Dictionary)!](https://skyyearxp.github.io/js-aruco2/samples/debug-posit/debug-posit.html)
 
-- [Markers Creator](https://damianofalcioni.github.io/js-aruco2/samples/marker-creator/marker-creator.html)
+- [Markers Creator](https://skyyearxp.github.io/js-aruco2/samples/marker-creator/marker-creator.html)
 
 ## Markers 
 
